@@ -3,8 +3,8 @@
 - task stream by lambda
 
 # Example
-####c++
-```
+
+``` cpp
 int main(void)
 {
 	auto _A = [](int a, int b) { return a + b };
